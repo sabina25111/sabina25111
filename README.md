@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sabina
-- 👀 I’m interested in cyber security
+- 👀 I’m interested in cyber security, phyton
 - 🌱 I’m currently learning copmtia security +
 - 📫 How to reach me sabina25111@gmail.com
 
