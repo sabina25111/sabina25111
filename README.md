@@ -1,7 +1,7 @@
 <h1>Hi, I'm Sabina!</h1>
 
 <h2>👩‍🎓 I’m currently working on Master of Science, Cybersecurity and Information Assurance  </h2>
-<h2> 🐱‍💻 I’m currently learning Pyton, Certified Ethical Hacking</h2>
+<h2> 🐱‍💻 I’m currently learning Python, Certified Ethical Hacking</h2>
 
 <h2> 👩‍💻Cybersecurity Projects:</h2>
 
@@ -9,7 +9,7 @@
   - [Active Directory Lab](https://github.com/sabina25111/Active-Directory-Lab)
   
 
-<h2> 👩‍💻 Pyton Projects:</h2>
+<h2> 👩‍💻 Python Projects:</h2>
 
 - <b>Car Game</b>
   - [Car Game](https://github.com/sabina25111/Car-Game.py)
