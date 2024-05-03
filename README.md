@@ -1,7 +1,11 @@
 <h1>Hi, I'm Sabina!</h1>
 
-<h2>👩‍🎓 I’m currently working on Master of Science, Cybersecurity and Information Assurance  </h2>
-<h2> 🐱‍💻 I’m currently learning Python, Certified Ethical Hacking</h2>
+<h2>👩‍🎓 Master of Science (MS) in Cybersecurity and Information Assurance with a solid foundation in network security, incident response and compliance  </h2>
+<h2> 🐱‍💻 I’m currently learning Python</h2>
+
+<h2>Cybersecurity Certificates:</h2>
+ <b>Certified Ethical Hacker (CEH) with expertise in ethical hacking techniques, penetration testing, and vulnerability assessment </b>
+ <b>CompTIA Security+ certified, demonstrating proficiency in cybersecurity principles, risk management, and threat mitigation strategies</b>
 
 <h2> 👩‍💻Cybersecurity Projects:</h2>
 
