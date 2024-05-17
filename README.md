@@ -20,6 +20,9 @@
   
 - <b>Guess-Game</b>
   - [Guess-Game](https://github.com/sabina25111/Guess-Game)
+    
+- <b>Password Generator</b>
+  - [Password Genrator](https://github.com/sabina25111/Password-Generator)
   
   
 <h2> 🤝 Connect with me:</h2>
