@@ -3,10 +3,14 @@
 <h2>👩‍🎓 Master of Science (MS) in Cybersecurity and Information Assurance with a solid foundation in network security, incident response and compliance  </h2>
 <h2> 🐱‍💻 I’m currently learning Python</h2>
 
-<h2>Cybersecurity Certificates:</h2>
- <b>Certified Ethical Hacker (CEH) with expertise in ethical hacking techniques, penetration testing, and vulnerability assessment </b>
- <b>CompTIA Security+ certified, demonstrating proficiency in cybersecurity principles, risk management, and threat mitigation strategies</b>
-
+<h2>CERTIFICATIONS</h2>
+ <b>Certified Ethical Hacker (CEH) </b>
+ <b>CompTIA Security+</b>
+ <b>ISC2 CC Certified in Cybersecurity</b>
+<h2>PROFESSIONAL AFFILIATIONS AND ACTIVITIES</h2>
+ <b>Women in Cybersecurity (WiCyS)</b>
+ <b>CyberPeace Builders (CPB)</b>
+ 
 <h2> 👩‍💻Cybersecurity Projects:</h2>
 
  <b>Active Directory Lab </b>
