@@ -4,6 +4,7 @@
 <h2> 🐱‍💻 I’m currently learning Python</h2>
 
 <h2>CERTIFICATIONS</h2>
+
  <b>Certified Ethical Hacker (CEH) </b>
  
  <b>CompTIA Security+</b>
