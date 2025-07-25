@@ -3,7 +3,7 @@
 <h2>👩‍🎓 Master of Science (MS) in Cybersecurity and Information Assurance with a solid foundation in network security, incident response and compliance  </h2>
 
 
-<h2>CERTIFICATIONS</h2>
+<h2>📜 CERTIFICATIONS</h2>
 
  <b>Certified Ethical Hacker (CEH) </b>
  
@@ -11,24 +11,24 @@
  
  <b>ISC2 CC Certified in Cybersecurity</b>
  
-<h2>PROFESSIONAL AFFILIATIONS AND ACTIVITIES</h2>
+<h2>💼 PROFESSIONAL AFFILIATIONS AND ACTIVITIES</h2>
 
  <b>Women in Cybersecurity (WiCyS)</b>
  
  <b>CyberPeace Builders (CPB)</b>
  
 
- <h2>🐱‍💻Check out my blog </h2>
+ <h2>🐱‍💻 CHECK OUT MY BLOG </h2>
  
  https://staysafewithme.com/
  
-<h2> 👩‍💻Cybersecurity Projects:</h2>
+<h2> 👩‍💻 CYBERSECURITY PROJECTS</h2>
 
  <b>Active Directory Lab </b>
   - [Active Directory Lab](https://github.com/sabina25111/Active-Directory-Lab)
   
 
-<h2> 👩‍💻 Python Projects:</h2>
+<h2> 👩‍💻 PYTHON PROJECTS </h2>
 
 - <b>Car Game</b>
   - [Car Game](https://github.com/sabina25111/Car-Game.py)
