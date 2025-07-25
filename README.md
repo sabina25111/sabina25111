@@ -1,7 +1,7 @@
 <h1>Hi👋, I'm Sabina!</h1>
 
 <h2>👩‍🎓 Master of Science (MS) in Cybersecurity and Information Assurance with a solid foundation in network security, incident response and compliance  </h2>
-<h2> 🐱‍💻 I’m currently learning Python</h2>
+
 
 <h2>CERTIFICATIONS</h2>
 
