@@ -1,6 +1,6 @@
 <h1>Hi👋, I'm Sabina!</h1>
 
-<h2>👩‍🎓 Master of Science (MS) in Cybersecurity and Information Assurance with a solid foundation in network security, incident response and compliance  </h2>
+<h2>👩‍🎓 I hold a Master’s degree in Cybersecurity and Information Assurance, along with a Bachelor’s in Accounting.  </h2>
 
 
 <h2>📜 CERTIFICATIONS</h2>
