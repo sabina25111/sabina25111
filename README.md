@@ -34,15 +34,11 @@
 
 <h2> 👩‍💻 PYTHON PROJECTS </h2>
 
-- <b>Car Game</b>
-  - [Car Game](https://github.com/sabina25111/Car-Game.py)
+- [Car Game](https://github.com/sabina25111/Car-Game.py)
   
-- <b>Guess-Game</b>
-  - [Guess-Game](https://github.com/sabina25111/Guess-Game)
+- [Guess-Game](https://github.com/sabina25111/Guess-Game)
     
-- <b>Password Generator</b>
-  - [Password Generator](https://github.com/sabina25111/Password-Generator)
-  
+- [Password Generator](https://github.com/sabina25111/Password-Generator)
   
 <h2> 🤝 Connect with me:</h2>
 
