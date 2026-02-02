@@ -19,11 +19,6 @@
  
  <b>CyberPeace Builders (CPB)</b>
  
-
- <h2>🐱‍💻 CHECK OUT MY BLOG </h2>
- 
- https://staysafewithme.com/
- 
 <h2> 👩‍💻 CYBERSECURITY PROJECTS</h2>
 
  <b> GRC Projects </b>
