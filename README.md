@@ -11,6 +11,8 @@
  
  <b>ISC2 CC Certified in Cybersecurity</b>
  
+ <b>Microsoft AZ-900 </b>
+ 
 <h2>💼 PROFESSIONAL AFFILIATIONS AND ACTIVITIES</h2>
 
  <b>Women in Cybersecurity (WiCyS)</b>
