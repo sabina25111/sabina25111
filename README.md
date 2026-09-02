@@ -22,7 +22,7 @@
 <h2> 👩‍💻 CYBERSECURITY PROJECTS</h2>
 
  <b> GRC Projects </b>
-  - [NIST CSF Compliance Checker]
+  - [GRC SKILL FOR CLAUDE]https://github.com/sabina25111/GRC-SKILL-REPO
  
  <b>Active Directory Lab </b>
   - [Active Directory Lab](https://github.com/sabina25111/Active-Directory-Lab)
