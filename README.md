@@ -23,7 +23,6 @@
 
  <b> GRC Projects </b>
   - [GRC SKILL FOR CLAUDE](https://github.com/sabina25111/GRC-SKILL-REPO)
-  - 
   - [Soc-analyst-skill FOR CLAUDE](https://github.com/sabina25111/soc-analyst-skill)
  
  <b>Active Directory Lab </b>
